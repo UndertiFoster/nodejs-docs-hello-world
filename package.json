@@ -1,0 +1,11 @@
+{
+  "name": "miniprojet",
+  "version": "1.0.0",
+  "description": "Node.js Hello World pour Azure WebApp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Louis",
+  "license": "MIT"
+}
